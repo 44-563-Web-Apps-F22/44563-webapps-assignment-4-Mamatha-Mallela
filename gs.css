@@ -1,0 +1,32 @@
+.speech {
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.song {
+    color: black;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.direction {
+    color: black;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgreen;
+}
+.name {
+    color: black;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.direction:hover{
+    background-color: green;
+    color: rgb(255,255,255);
+}
+.BUT{
+    color:blue;
+}
+.CAPT{
+    color:red;
+}
