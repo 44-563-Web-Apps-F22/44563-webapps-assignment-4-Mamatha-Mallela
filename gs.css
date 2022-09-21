@@ -27,6 +27,11 @@
 .BUT{
     color:blue;
 }
+.name:hover{
+    text-shadow: 2px 3px 5px;
+    color: brown;
+    border: solid 3px;
+}
 .CAPT{
     color:red;
 }
