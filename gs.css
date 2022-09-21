@@ -55,3 +55,20 @@ td{
 tr:nth-child(even){
     background-color: gray;
 }
+
+ul.navbar-horizontal {
+    /* remove these */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    float:left; /* line up horizontally */
+    color:palevioletred;
+    background-color:lavender
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+    /* on hover change the link color*/
+    }
