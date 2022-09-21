@@ -2,7 +2,6 @@
     color: black;
     font-size: 15px;
     font-family: 'Times New Roman', Times, serif;
-    
 }
 .song {
     color: black;
@@ -28,13 +27,13 @@
 .BUT{
     color:blue;
 }
+.CAPT{
+    color:red;
+}
 .name:hover{
     text-shadow: 2px 3px 5px;
     color: brown;
     border: solid 3px;
-}
-.CAPT{
-    color:red;
 }
 table{
     border:solid 4px rgb(0, 102, 128);
